@@ -28,5 +28,5 @@ A Windows Forms application developed in C# using Object-Oriented Programming (O
 - Dina Ali
 - Contact: dinaelharedy00@gmail.com
 - linkedin:https://www.linkedin.com/in/dina-ali-0573a724b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Created as part of a learning project or HR solution development
+- Created as part of a learning project for HR solution development.
 ---
