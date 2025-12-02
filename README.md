@@ -1,4 +1,4 @@
-# 💰 Project README:Payroll Management System
+# 💰 Payroll Management System
 
 ## 🌐 Overview & Business Solution
 
